@@ -39,6 +39,7 @@ By implementing these insights, we can drive sustainable sales growth and profit
 Exploration with SQL
 
 Data Analysis in Spreadsheets
+https://docs.google.com/spreadsheets/d/1qrVr51KnYllv36M3XjD4sq-_cvxJtYt-zzb1OpqQZ4E/edit?usp=sharing
 
 Getting Insights with Tableau
 
